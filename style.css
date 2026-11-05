@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+body{
+     width:full;
+    height:100vh;
+    background: rgb(243, 119, 119);
+    align-items: center;
+    display:flex;
+    justify-content: center;
+
+}
+p{
+  font-size: 5rem;
+  color:green;
+  border: 2px solid blue;
+  box-shadow: teal; 
+  background:rgb(234, 234, 32);
+
+    
+    
+    
+
+}
